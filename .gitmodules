@@ -1,3 +1,12 @@
 [submodule "DistributedSystems"]
 	path = DistributedSystems
 	url = git@github.com:Noarkhh/DistributedSystems.git
+[submodule "AIMethodsAndAlgorithms/lab-01"]
+	path = AIMethodsAndAlgorithms/lab-01
+	url = git@gitlab.com:malpi-gaj/lab-01.git
+[submodule "lab-02"]
+	path = lab-02
+	url = git@gitlab.com:malpi-gaj/lab-02.git
+[submodule "AIMethodsAndAlgorithms/lab-02"]
+	path = AIMethodsAndAlgorithms/lab-02
+	url = git@gitlab.com:malpi-gaj/lab-02.git
