@@ -4,9 +4,12 @@
 [submodule "AIMethodsAndAlgorithms/lab-01"]
 	path = AIMethodsAndAlgorithms/lab-01
 	url = git@gitlab.com:malpi-gaj/lab-01.git
-[submodule "lab-02"]
-	path = lab-02
-	url = git@gitlab.com:malpi-gaj/lab-02.git
 [submodule "AIMethodsAndAlgorithms/lab-02"]
 	path = AIMethodsAndAlgorithms/lab-02
 	url = git@gitlab.com:malpi-gaj/lab-02.git
+[submodule "AIMethodsAndAlgorithms/lab-03-asss"]
+	path = AIMethodsAndAlgorithms/lab-03-asss
+	url = git@gitlab.com:malpi-gaj/lab-03-asss.git
+[submodule "AIMethodsAndAlgorithms/lab-04-mc-asss"]
+	path = AIMethodsAndAlgorithms/lab-04-mc-asss
+	url = git@gitlab.com:malpi-gaj/lab-04-mc-asss.git
