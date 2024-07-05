@@ -22,3 +22,6 @@
 [submodule "fung-os"]
 	path = fung-os
 	url = git@github.com:out-somniac/fung-os.git
+[submodule "AIMethodsAndAlgorithms/lab-06-re-lev-ql"]
+	path = AIMethodsAndAlgorithms/lab-06-re-lev-ql
+	url = git@gitlab.com:malpi-gaj/lab-06-re-lev-ql.git
